@@ -16,5 +16,5 @@ struct college_info
   char street[20];
   char area[20];
   char city[20];
-  struct person_info p[100];
-}clg[100];
+  struct person_info p[2];
+}clg[2];
